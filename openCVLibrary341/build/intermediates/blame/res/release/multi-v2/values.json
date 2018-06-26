@@ -1,0 +1,12 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/collen/Dev/Android/NDKOpenCVTest1/openCVLibrary341/build/intermediates/res/merged/release/values/values.xml",
+            "map": []
+        },
+        {
+            "outputFile": "/Users/collen/Dev/Android/NDKOpenCVTest1/openCVLibrary341/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": []
+        }
+    ]
+}
